@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `151.0.7922.4` | 400.48 MB | `b69bf797033addfe...` | [下载](https://dl.google.com/release2/chrome/acuorknsat2y65hvrx4ujs34dgqa_151.0.7922.4/151.0.7922.4_chrome_installer_uncompressed.exe) |
-| **x64** | `151.0.7922.4` | 487.89 MB | `93ecce67ddd4af36...` | [下载](https://dl.google.com/release2/chrome/ad7io5zo3u3utmuaoubqgda2f63q_151.0.7922.4/151.0.7922.4_chrome_installer_uncompressed.exe) |
+| **x86** | `151.0.7922.5` | 400.48 MB | `b4744bdb8672ce7a...` | [下载](https://dl.google.com/release2/chrome/adzo3ogehqljaxr7xlj43x7azrda_151.0.7922.5/151.0.7922.5_chrome_installer_uncompressed.exe) |
+| **x64** | `151.0.7922.5` | 487.89 MB | `f7c80d376c1ffa1a...` | [下载](https://dl.google.com/release2/chrome/adtcprbp5akg3fzilzsjtkgy7eqq_151.0.7922.5/151.0.7922.5_chrome_installer_uncompressed.exe) |
 | **ARM64** | `151.0.7922.4` | 464.55 MB | `34ec9af569a84a6a...` | [下载](https://dl.google.com/release2/chrome/fobswxgyuf3zm65z75vsds4esu_151.0.7922.4/151.0.7922.4_chrome_installer_uncompressed.exe) |
 
