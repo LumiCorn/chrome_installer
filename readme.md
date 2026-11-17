@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `160.0.8166.0` | 426.33 MB | `35a226bbbe239588...` | [下载](https://dl.google.com/release2/chrome/lab637lwl342n7p72p54a7udou_160.0.8166.0/160.0.8166.0_chrome_installer_uncompressed.exe) |
-| **x64** | `160.0.8166.0` | 519.05 MB | `0cc8efc3e85daa21...` | [下载](https://dl.google.com/release2/chrome/acpiuhbjbdpfy5se5z4bevalwzva_160.0.8166.0/160.0.8166.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `160.0.8166.0` | 488.72 MB | `302b726cb1b9f94a...` | [下载](https://dl.google.com/release2/chrome/ad6x6rsp2ywuee26m5ullvaeudja_160.0.8166.0/160.0.8166.0_chrome_installer_uncompressed.exe) |
+| **x86** | `160.0.8166.3` | 426.32 MB | `5f5f97499eb6f9ca...` | [下载](https://dl.google.com/release2/chrome/aciwfh33gjvd5vqs73bfdhddfacq_160.0.8166.3/160.0.8166.3_chrome_installer_uncompressed.exe) |
+| **x64** | `160.0.8166.3` | 519.05 MB | `760c03bbdfe436f4...` | [下载](https://dl.google.com/release2/chrome/gia3vk3cu2ti7zkn24uydpvnf4_160.0.8166.3/160.0.8166.3_chrome_installer_uncompressed.exe) |
+| **ARM64** | `160.0.8166.3` | 488.71 MB | `f5d014ad1fabffab...` | [下载](https://dl.google.com/release2/chrome/adm2eo3jasximp6s7dxo6ltq3n3a_160.0.8166.3/160.0.8166.3_chrome_installer_uncompressed.exe) |
 
